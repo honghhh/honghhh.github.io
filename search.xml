@@ -107,11 +107,22 @@
     
     
     <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于自己</title>
       <link href="/about/index.html"/>
       <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[ <center>     <h1>基本信息</h1> </center><hr><h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><ul><li>性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 年 龄：25 </li><li>籍 贯：广东汕头 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;邮 箱：<a href="mailto:&#50;&#x38;&#50;&#49;&#x31;&#x33;&#50;&#56;&#48;&#53;&#104;&#x68;&#x68;&#64;&#103;&#109;&#x61;&#x69;&#x6c;&#46;&#99;&#111;&#109;">&#50;&#x38;&#50;&#49;&#x31;&#x33;&#50;&#56;&#48;&#53;&#104;&#x68;&#x68;&#64;&#103;&#109;&#x61;&#x69;&#x6c;&#46;&#99;&#111;&#109;</a> </li><li>专 业：计算机应用技术 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;岗 位：电商运营</li></ul><hr><h2 id="工作及教育经历"><a href="#工作及教育经历" class="headerlink" title="工作及教育经历"></a>工作及教育经历</h2><ul><li>XXXX贸易有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2022.1~2022.至今&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 运营 - 天猫运营 </li><li>XXXX科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2021.2~2022.1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  后端开发 - Java </li><li>XXXX科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2018.7~2021.2 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  后端开发 - Java       </li><li>XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2021.9~2024.7 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 工商管理 - 本科         </li><li>XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2015.9~2018.7 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 计算机应用技术 - 大专  </li></ul><hr><h2 id="编程技能"><a href="#编程技能" class="headerlink" title="编程技能"></a>编程技能</h2><ul><li>掌握java基础，具有 J2EE 项目开发经验，熟悉 java 面向对象编程开发 </li><li>熟练掌握 spring、springMVC、mybaits、mybatisplu、springboot等开源框架技术，并能够用 ssm 框架进行项目的开发</li><li>熟练运用标准 SQL 语句,主要使用 mysql、oracle、sqlserver 等主流数据库, 使用powerdesigner进行数据表结构设计</li><li>有良好的代码编写习惯（合适的命名跟注释格式）</li><li>熟悉前端技术html + css + javascript +ajax</li><li>熟练运用 junit、debug 进行程序调试</li><li>熟练使用log4j 进行日志管理</li><li>熟练使用svn、git进行代码版本管理</li><li>熟练 tomcat、jetty 等应用服务器</li><li>熟练掌握 eclipse、 sts、idea 等开发工具</li><li>熟悉 jquery 、bootstrap、hui、h+、layui、ztree、iview 等前端框架的使用</li><li>熟悉dubbo、zookeeper、springcloud 微服务技术</li><li>熟悉redis缓存技术、activitymq消息组件、nginx反向代理服务器、solr搜索应用服务器、FreeMarker模板引擎</li><li>熟悉Linux常用命令和java运行环境搭建</li></ul><hr><h2 id="电商技能"><a href="#电商技能" class="headerlink" title="电商技能"></a>电商技能</h2><ul><li>负责店铺日常运营工作</li></ul><hr><h2 id="项目经历"><a href="#项目经历" class="headerlink" title="项目经历"></a>项目经历</h2><ol><li><p>XXXX科技有限公司 - 商城系统 - 负责后端开发 - 2018.7- 2021.2</p><ul><li>实现后台登录、操作员管理、角色管理、角色授权、日志管理、订单管理、统计等功能</li><li>技术框架：spring + springmvc + mybatis + maven + ajax + jquery+ bootstrap + svn</li><li>项目线上环境配置</li></ul></li><li><p>XXXX纺织有限公司 - ERP系统 - 负责后端开发 - 2021.2- 2022.1</p><ul><li>出入库管理、锁板管理、文件发送、OA审批流等功能</li><li>技术框架：spring + springmvc + mybatis plus + maven + ajax + iview + git</li><li>项目线上环境配置</li></ul></li><li><p>XXXX贸易有限公司 - 电商 - 天猫运营 - 2022.1- 2022.至今</p><ul><li>上架商品</li><li>产品监控和数据收集以及分析、日常市场和竞品竞店的市场收集和分析</li><li>日常活动报名</li><li>补单</li></ul></li></ol><hr><h2 id="技能证书"><a href="#技能证书" class="headerlink" title="技能证书"></a>技能证书</h2><ul><li>网页设计师中级证书</li><li>Java程序设计工程师技术水平中级证书</li><li>数据库应用系统设计工程师技术水平中级证书</li><li>网络管理工程师中级证书</li><li>Photoshop四级证书</li><li>英语A级证书</li><li>计算机一级证书</li></ul><hr><h2 id="获奖经历"><a href="#获奖经历" class="headerlink" title="获奖经历"></a>获奖经历</h2><ul><li>2015-2016学年度青年志愿者服务活动被评为 “优秀青年志愿者”</li></ul><hr><h2 id="个人账号"><a href="#个人账号" class="headerlink" title="个人账号"></a>个人账号</h2><ul><li>blog 地址：<a href="https://honghhh.github.io/">https://honghhh.github.io</a></li><li>github 地址：<a href="https://github.com/honghhh">https://github.com/honghhh</a></li></ul><hr><h2 id="其他信息"><a href="#其他信息" class="headerlink" title="其他信息"></a>其他信息</h2><ul><li>喜欢游戏、电影、音乐</li><li>喜欢哈沙ki</li><li>喜欢旅游</li></ul><hr><h1 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h1><blockquote><p>欢迎与我交流，围观朋友圈，做点赞之交</p></blockquote>]]></content>
+        <content type="html"><![CDATA[ <center>     <h1>基本信息</h1> </center><hr><h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><ul><li>性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 年 龄：25 </li><li>籍 贯：广东汕头 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;邮 箱：<a href="mailto:&#x32;&#x38;&#50;&#x31;&#x31;&#x33;&#50;&#x38;&#x30;&#53;&#104;&#x68;&#104;&#x40;&#103;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#99;&#x6f;&#109;">&#x32;&#x38;&#50;&#x31;&#x31;&#x33;&#50;&#x38;&#x30;&#53;&#104;&#x68;&#104;&#x40;&#103;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#99;&#x6f;&#109;</a> </li><li>专 业：计算机应用技术 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;岗 位：电商运营</li></ul><hr><h2 id="工作及教育经历"><a href="#工作及教育经历" class="headerlink" title="工作及教育经历"></a>工作及教育经历</h2><ul><li>XXXX贸易有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2022.1~2022.至今&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 运营 - 天猫运营 </li><li>XXXX科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2021.2~2022.1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  后端开发 - Java </li><li>XXXX科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2018.7~2021.2 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  后端开发 - Java       </li><li>XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2021.9~2024.7 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 工商管理 - 本科         </li><li>XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2015.9~2018.7 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 计算机应用技术 - 大专  </li></ul><hr><h2 id="编程技能"><a href="#编程技能" class="headerlink" title="编程技能"></a>编程技能</h2><ul><li>掌握java基础，具有 J2EE 项目开发经验，熟悉 java 面向对象编程开发 </li><li>熟练掌握 spring、springMVC、mybaits、mybatisplu、springboot等开源框架技术，并能够用 ssm 框架进行项目的开发</li><li>熟练运用标准 SQL 语句,主要使用 mysql、oracle、sqlserver 等主流数据库, 使用powerdesigner进行数据表结构设计</li><li>有良好的代码编写习惯（合适的命名跟注释格式）</li><li>熟悉前端技术html + css + javascript +ajax</li><li>熟练运用 junit、debug 进行程序调试</li><li>熟练使用log4j 进行日志管理</li><li>熟练使用svn、git进行代码版本管理</li><li>熟练 tomcat、jetty 等应用服务器</li><li>熟练掌握 eclipse、 sts、idea 等开发工具</li><li>熟悉 jquery 、bootstrap、hui、h+、layui、ztree、iview 等前端框架的使用</li><li>熟悉dubbo、zookeeper、springcloud 微服务技术</li><li>熟悉redis缓存技术、activitymq消息组件、nginx反向代理服务器、solr搜索应用服务器、FreeMarker模板引擎</li><li>熟悉Linux常用命令和java运行环境搭建</li></ul><hr><h2 id="电商技能"><a href="#电商技能" class="headerlink" title="电商技能"></a>电商技能</h2><ul><li>负责店铺日常运营工作</li></ul><hr><h2 id="项目经历"><a href="#项目经历" class="headerlink" title="项目经历"></a>项目经历</h2><ol><li><p>XXXX科技有限公司 - 商城系统 - 负责后端开发 - 2018.7- 2021.2</p><ul><li>实现后台登录、操作员管理、角色管理、角色授权、日志管理、订单管理、统计等功能</li><li>技术框架：spring + springmvc + mybatis + maven + ajax + jquery+ bootstrap + svn</li><li>项目线上环境配置</li></ul></li><li><p>XXXX纺织有限公司 - ERP系统 - 负责后端开发 - 2021.2- 2022.1</p><ul><li>出入库管理、锁板管理、文件发送、OA审批流等功能</li><li>技术框架：spring + springmvc + mybatis plus + maven + ajax + iview + git</li><li>项目线上环境配置</li></ul></li><li><p>XXXX贸易有限公司 - 电商 - 天猫运营 - 2022.1- 2022.至今</p><ul><li>上架商品</li><li>产品监控和数据收集以及分析、日常市场和竞品竞店的市场收集和分析</li><li>日常活动报名</li><li>补单</li></ul></li></ol><hr><h2 id="技能证书"><a href="#技能证书" class="headerlink" title="技能证书"></a>技能证书</h2><ul><li>网页设计师中级证书</li><li>Java程序设计工程师技术水平中级证书</li><li>数据库应用系统设计工程师技术水平中级证书</li><li>网络管理工程师中级证书</li><li>Photoshop四级证书</li><li>英语A级证书</li><li>计算机一级证书</li></ul><hr><h2 id="获奖经历"><a href="#获奖经历" class="headerlink" title="获奖经历"></a>获奖经历</h2><ul><li>2015-2016学年度青年志愿者服务活动被评为 “优秀青年志愿者”</li></ul><hr><h2 id="个人账号"><a href="#个人账号" class="headerlink" title="个人账号"></a>个人账号</h2><ul><li>blog 地址：<a href="https://honghhh.github.io/">https://honghhh.github.io</a></li><li>github 地址：<a href="https://github.com/honghhh">https://github.com/honghhh</a></li></ul><hr><h2 id="其他信息"><a href="#其他信息" class="headerlink" title="其他信息"></a>其他信息</h2><ul><li>喜欢游戏、电影、音乐</li><li>喜欢哈沙ki</li><li>喜欢旅游</li></ul><hr><h1 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h1><blockquote><p>欢迎与我交流，围观朋友圈，做点赞之交</p></blockquote>]]></content>
       
     </entry>
     
@@ -121,17 +132,6 @@
       <title>留言板</title>
       <link href="/comments/index.html"/>
       <url>/comments/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -155,7 +155,7 @@
       <link href="/gallery/index.html"/>
       <url>/gallery/index.html</url>
       
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁纸专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">instgram</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">我的一眼万年</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/wallpaper'></a>  </figcaption>  </figure>  </div>]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.site/2022/12/14/49e2f582-804e-4e94-92b9-ee6997bd9049/1_%EA%B0%99%EC%9D%B4%EC%B2%9C%EC%B2%9C%ED%9E%88%EB%82%98%EC%9D%B4%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94%EC%9D%BC%EC%9D%B4%EA%B8%B0%EB%8B%A4%EB%A0%A4%EC%A7%84%EB%8B%A4%F0%9F%96%A4.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁纸专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.site/2022/12/14/49e2f582-804e-4e94-92b9-ee6997bd9049/1_%EA%B0%99%EC%9D%B4%EC%B2%9C%EC%B2%9C%ED%9E%88%EB%82%98%EC%9D%B4%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94%EC%9D%BC%EC%9D%B4%EA%B8%B0%EB%8B%A4%EB%A0%A4%EC%A7%84%EB%8B%A4%F0%9F%96%A4.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">instgram</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/instgram'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.site/2022/12/14/49e2f582-804e-4e94-92b9-ee6997bd9049/1_%EA%B0%99%EC%9D%B4%EC%B2%9C%EC%B2%9C%ED%9E%88%EB%82%98%EC%9D%B4%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94%EC%9D%BC%EC%9D%B4%EA%B8%B0%EB%8B%A4%EB%A0%A4%EC%A7%84%EB%8B%A4%F0%9F%96%A4.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">我的一眼万年</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/love'></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
@@ -200,6 +200,28 @@
       <url>/tags/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>instgram</title>
+      <link href="/gallery/instgram/index.html"/>
+      <url>/gallery/instgram/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://img.keviecc.site/2022/12/14/49e2f582-804e-4e94-92b9-ee6997bd9049/1_%EA%B0%99%EC%9D%B4%EC%B2%9C%EC%B2%9C%ED%9E%88%EB%82%98%EC%9D%B4%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94%EC%9D%BC%EC%9D%B4%EA%B8%B0%EB%8B%A4%EB%A0%A4%EC%A7%84%EB%8B%A4%F0%9F%96%A4.jpg" alt="p1"> </p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>我的一眼万年</title>
+      <link href="/gallery/love/index.html"/>
+      <url>/gallery/love/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://img.keviecc.site/2022/12/14/49e2f582-804e-4e94-92b9-ee6997bd9049/1_%EA%B0%99%EC%9D%B4%EC%B2%9C%EC%B2%9C%ED%9E%88%EB%82%98%EC%9D%B4%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94%EC%9D%BC%EC%9D%B4%EA%B8%B0%EB%8B%A4%EB%A0%A4%EC%A7%84%EB%8B%A4%F0%9F%96%A4.jpg" alt="p1"> </p>          </div>]]></content>
       
     </entry>
     
