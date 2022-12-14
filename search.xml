@@ -57,11 +57,11 @@
     
     
     <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
+      <title>关于自己</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[ <center>     <h1>XXX</h1> </center><h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><ul><li>性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  </li><li>手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：<a href="mailto:&#x58;&#x58;&#88;&#88;&#x58;&#x40;&#88;&#x58;&#x58;&#x2e;&#x63;&#x6f;&#109;">&#x58;&#x58;&#88;&#88;&#x58;&#x40;&#88;&#x58;&#x58;&#x2e;&#x63;&#x6f;&#109;</a>    </li><li>专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师</li></ul><h2 id="工作及教育经历"><a href="#工作及教育经历" class="headerlink" title="工作及教育经历"></a>工作及教育经历</h2><ul><li>前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       </li><li>XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         </li><li>XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  </li></ul><h2 id="专业技能"><a href="#专业技能" class="headerlink" title="专业技能"></a>专业技能</h2><ul><li>熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言</li><li>掌握基础数据结构和算法的基本原理</li><li>等等</li></ul><h2 id="项目经历"><a href="#项目经历" class="headerlink" title="项目经历"></a>项目经历</h2><ol><li><p>公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 </p><ul><li>具体功能 </li><li>运用了那些技术，技术难点是</li><li>效果如何</li><li>demo演示地址，github地址 </li></ul></li><li><p>公司/学校 - XX游戏 - 负责后端开发 - 201309- 201401 </p><ul><li>具体功能 </li><li>运用了那些技术，技术难点是</li><li>效果如何</li><li>demo演示地址，github地址 </li></ul></li></ol><h2 id="获奖经历"><a href="#获奖经历" class="headerlink" title="获奖经历"></a>获奖经历</h2><ul><li>XXX 优秀新人</li><li>XXX 学生社团优秀干部</li><li>竞赛 XXX 奖</li></ul><h2 id="个人账号"><a href="#个人账号" class="headerlink" title="个人账号"></a>个人账号</h2><ul><li>blog 地址 (附加自己博客特色，写了哪些技术文章)</li><li>github 地址 (附加自己github特色，突出的项目)</li></ul><h2 id="其他信息"><a href="#其他信息" class="headerlink" title="其他信息"></a>其他信息</h2><ul><li>喜欢钻研技术 等等</li><li>性格开朗，喜欢跳舞，做个主持人 等等 </li></ul><blockquote><p>简历的word版本，可以在我的公众号<a href="https://img-blog.csdnimg.cn/20200815195519696.png">代码随想录</a>中，后台回复：简历模板，别可获取</p></blockquote><h1 id="关于作者"><a href="#关于作者" class="headerlink" title="关于作者"></a>关于作者</h1><p>大家好，我是程序员Carl，哈工大师兄，ACM 校赛、黑龙江省赛、东北四省赛金牌、亚洲区域赛铜牌获得者，先后在腾讯和百度从事分布式技术研发。</p><p>也欢迎与我交流，备注：「个人简单介绍」 + 交流，围观朋友圈，做点赞之交（备注没有自我介绍不通过哦）</p><p><a name="微信"></a><br><img src="https://img-blog.csdnimg.cn/20200814140330894.png" data-img="1" width="175" height="175"></p><h1 id="公众号"><a href="#公众号" class="headerlink" title="公众号"></a>公众号</h1><p>更多精彩文章持续更新，微信搜索：「代码随想录」第一时间围观，关注后回复：「666」可以获得所有算法专题原创PDF。</p><p><strong>「代码随想录」每天准时为你推送一篇经典面试题目，帮你梳理算法知识体系，轻松学习算法！</strong>，并且公众号里有大量学习资源，也有我自己的学习心得和方法总结，更有上万录友们在这里打卡学习。</p><p><strong>来看看就知道了，你会发现相见恨晚！</strong></p><p><a name="公众号"></a></p><p><img src="https://github.com/youngyangyang04/leetcode-master/blob/master/pics/%E5%85%AC%E4%BC%97%E5%8F%B7.png"></p>]]></content>
       
     </entry>
     
@@ -90,11 +90,11 @@
     
     
     <entry>
-      <title>关于自己</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
       
-        <content type="html"><![CDATA[<h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><ul><li>性 别：男      </li><li>年 龄：25            </li><li>邮 箱：<a href="mailto:&#x33;&#x35;&#48;&#53;&#54;&#x39;&#x33;&#x32;&#49;&#x40;&#113;&#x71;&#46;&#99;&#111;&#109;">&#x33;&#x35;&#48;&#53;&#54;&#x39;&#x33;&#x32;&#49;&#x40;&#113;&#x71;&#46;&#99;&#111;&#109;</a>           </li><li>专 业：计算机应用技术</li></ul><h2 id="工作及教育经历"><a href="#工作及教育经历" class="headerlink" title="工作及教育经历"></a>工作及教育经历</h2><ul><li>前公司 - 2021.2~2022.5 - Java开发    </li><li>前前公司 - 2018.7~2021.2 - Java开发       </li><li>XXXX大学 - 2021.9~2024.7 - 工商管理-本科         </li><li>XXXX大学 - 2015.9~2018.7 - 计算机应用技术 - 大专</li></ul><h2 id="专业技能"><a href="#专业技能" class="headerlink" title="专业技能"></a>专业技能</h2><ul><li>掌握java基础，具有 J2EE 项目开发经验，熟悉 java 面向对象编程开发 </li><li>熟练掌握 spring、springMVC、mybaits、mybatisplu、springboot等开源框架技术，并能够用 ssm 框架进行项目的开发</li><li>熟练运用标准 SQL 语句,主要使用 mysql、oracle、sqlserver 等主流数据库, 使用powerdesigner进行数据表结构设计</li><li>有良好的代码编写习惯（合适的命名跟注释格式）</li><li>熟悉前端技术html + css + javascript +ajax</li><li>熟练运用 junit、debug 进行程序调试</li><li>熟练使用log4j 进行日志管理</li><li>熟练使用svn、git进行代码版本管理</li><li>熟练 tomcat、jetty 等应用服务器</li><li>熟练掌握 eclipse、 sts、idea 等开发工具</li><li>熟悉 jquery 、bootstrap、hui、h+、layui、ztree、iview 等前端框架的使用</li><li>熟悉dubbo、zookeeper、springcloud 微服务技术</li><li>熟悉redis缓存技术、activitymq消息组件、nginx反向代理服务器、solr搜索应用服务器、FreeMarker模板引擎</li><li>熟悉Linux常用命令和java运行环境搭建</li></ul><h2 id="项目经历"><a href="#项目经历" class="headerlink" title="项目经历"></a>项目经历</h2><ol><li><p>公司 - 冷氏蜜蜡 - 后台开发 - 2018.07- 2018.12 </p><ul><li>参与数据库设计</li><li>实现后台登录、修改密码、操作员管理、角色管理、角色授权、日志管理、系统基础信息配置页面和功能</li><li>实现后台消息管理模块、banner图和图标管理模块页面和功能</li><li>实现后台会员模块、会员金额添加和扣除、会员提现管理模块、会员提现审核页面和功能</li><li>实现后台订单模块查看订单、订单发货页面和功能</li><li>使用highechart、Echarts插件实现后台产品和订单销量金额统计图页面和功能</li><li>编写App查询分类、按条件搜索产品APP接口和接口文档</li><li>编写个人中心信息、收货地址管理、会员足迹管理、会员签到、会员意见管理APP接口和接口文档</li><li>编写新闻管理APP接口和接口文档</li><li>编写会员订单模块、取消订单、删除订单、确认收货、订单评论、订单发货提醒APP接口和接口文档</li><li>编写商城系统分佣模式</li><li>负责对应模块问题维护</li></ul></li><li><p>公司 - ERP新系统 - 后台开发 - 202103- 202205 </p><ul><li>参与数据库设计</li><li>实现PLM子系统开发需求单模块、锁板管理模块、排产管理、展会办册模块、3D文件发送模块</li><li>实现SCM子系统资产管理模块</li><li>实现WMS系统入仓管理、出仓管理、库存管理、基础管理模块</li><li>实现对接蓝凌OA调用审批流</li><li>实现新系统数据初始化</li></ul></li></ol><h2 id="获奖经历"><a href="#获奖经历" class="headerlink" title="获奖经历"></a>获奖经历</h2><ul><li>2015-2016学年度青年志愿者服务活动被评为“优秀青年志愿者”</li><li>Java程序设计工程师技术水平中级证书</li><li>数据库应用系统设计工程师技术水平中级证书</li></ul><h2 id="个人账号"><a href="#个人账号" class="headerlink" title="个人账号"></a>个人账号</h2><ul><li><a href="https://honghhh.github.io/">https://honghhh.github.io/</a></li><li><a href="https://github.com/honghhh">https://github.com/honghhh</a></li></ul><h2 id="其他信息"><a href="#其他信息" class="headerlink" title="其他信息"></a>其他信息</h2><ul><li>喜欢游戏、旅游</li><li>性格开朗</li><li>亚索爱好者</li></ul>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -105,7 +105,7 @@
       <link href="/gallery/index.html"/>
       <url>/gallery/index.html</url>
       
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁纸专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/wallpaper'></a>  </figcaption>  </figure>  </div>]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁纸专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">instgram</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://source.fomal.cc/img/default_cover_61.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">我的一眼万年</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/wallpaper'></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
