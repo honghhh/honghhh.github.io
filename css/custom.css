@@ -39,7 +39,7 @@
 } */
 
 @font-face {
-    font-family: 'tzy';
+    font-family: 'ZhuZiAWan';
     /* 字体名自定义即可 */
     /* src: url('https://cdn.jsdelivr.net/gh/tzy13755126023/BLOG_SOURCE/font/ZhuZiAWan.woff2'); */
     src: url('https://npm.elemecdn.com/ethan4116-blog/lib/font/ZhuZiAWan.ttf');
@@ -49,5 +49,5 @@
 
 body,
 .gitcalendar {
-    font-family: tzy !important;
+    font-family: ZhuZiAWan !important;
 }
