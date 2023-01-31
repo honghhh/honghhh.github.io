@@ -1,0 +1,320 @@
+<!DOCTYPE html><html lang="zh-CN" data-theme="light"><script>((function() {var callbacks = [],timeLimit = 50,open = false;setInterval(loop, 1);return {addListener: function(fn) {callbacks.push(fn);},cancleListenr: function(fn) {callbacks = callbacks.filter(function(v) {return v !== fn;});}}
+function loop() {var startTime = new Date();debugger;if (new Date() - startTime > timeLimit) {if (!open) {callbacks.forEach(function(fn) {fn.call(null);});}open = true;window.stop();alert('你真坏，请关闭控制台！');document.body.innerHTML = "";} else {open = false;}}})()).addListener(function() {window.location.reload();});</script><script>function toDevtools(){
+  let num = 0; 
+  let devtools = new Date();
+  devtools.toString = function() {
+    num++;
+    if (num > 1) {
+        alert('你真坏，请关闭控制台！')
+        window.location.href = "about:blank"
+        blast();
+    }
+  }
+  console.log('', devtools);
+}
+toDevtools();</script><head><meta charset="UTF-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"><title>生活笔记 | kevieの峡谷日记</title><meta name="author" content="kevie"><meta name="copyright" content="kevie"><meta name="format-detection" content="telephone=no"><meta name="theme-color" content="#ffffff"><meta name="description" content="自家菜单              清单菜类 蒜香菜心 清蒸南瓜 芹菜炒木耳 炒韭菜 炒生菜 炒菠菜 炒豆角 豆芽炒咸菜 炒春菜 白菜虾米 炒芥兰 炒椰菜花 炒荷兰豆  肉类 青椒炒肉 西蓝花炒肉 番茄炒蛋 香菇焖鸡 牛肉蒸榨菜 牛腩焖萝卜 清蒸排骨 卤猪脚 豆腐焖肉 煎鸡蛋 排骨焖苹果醋 猪肚炒青椒 猪肚炒咸菜 炸鸡翅 卤鸡翅 可乐鸡翅 椰菜花炒腊肉 冬瓜菜谱虾米炒瘦肉 荷兰豆炒腊肠 椰菜花炒腊">
+<meta property="og:type" content="article">
+<meta property="og:title" content="生活笔记">
+<meta property="og:url" content="https://blog.kevie.site/2023/12/21/20230131-9996/index.html">
+<meta property="og:site_name" content="kevieの峡谷日记">
+<meta property="og:description" content="自家菜单              清单菜类 蒜香菜心 清蒸南瓜 芹菜炒木耳 炒韭菜 炒生菜 炒菠菜 炒豆角 豆芽炒咸菜 炒春菜 白菜虾米 炒芥兰 炒椰菜花 炒荷兰豆  肉类 青椒炒肉 西蓝花炒肉 番茄炒蛋 香菇焖鸡 牛肉蒸榨菜 牛腩焖萝卜 清蒸排骨 卤猪脚 豆腐焖肉 煎鸡蛋 排骨焖苹果醋 猪肚炒青椒 猪肚炒咸菜 炸鸡翅 卤鸡翅 可乐鸡翅 椰菜花炒腊肉 冬瓜菜谱虾米炒瘦肉 荷兰豆炒腊肠 椰菜花炒腊">
+<meta property="og:locale" content="zh_CN">
+<meta property="og:image" content="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212081029348.webp">
+<meta property="article:published_time" content="2023-12-21T09:58:37.000Z">
+<meta property="article:modified_time" content="2023-01-31T06:02:16.510Z">
+<meta property="article:author" content="kevie">
+<meta property="article:tag" content="笔记">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212081029348.webp"><link rel="shortcut icon" href="/img/favicon.png"><link rel="canonical" href="https://blog.kevie.site/2023/12/21/20230131-9996/"><link rel="preconnect" href="//cdn.jsdelivr.net"/><link rel="preconnect" href="//busuanzi.ibruce.info"/><link rel="stylesheet" href="/css/index.css"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free/css/all.min.css" media="print" onload="this.media='all'"><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.min.css" media="print" onload="this.media='all'"><script>const GLOBAL_CONFIG = { 
+  root: '/',
+  algolia: undefined,
+  localSearch: {"path":"/search.xml","preload":false,"languages":{"hits_empty":"找不到您查询的内容：${query}"}},
+  translate: undefined,
+  noticeOutdate: undefined,
+  highlight: {"plugin":"highlighjs","highlightCopy":true,"highlightLang":true,"highlightHeightLimit":false},
+  copy: {
+    success: '复制成功',
+    error: '复制错误',
+    noSupport: '浏览器不支持'
+  },
+  relativeDate: {
+    homepage: true,
+    post: true
+  },
+  runtime: '',
+  date_suffix: {
+    just: '刚刚',
+    min: '分钟前',
+    hour: '小时前',
+    day: '天前',
+    month: '个月前'
+  },
+  copyright: {"limitCount":50,"languages":{"author":"作者: kevie","link":"链接: ","source":"来源: kevieの峡谷日记","info":"著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。"}},
+  lightbox: 'fancybox',
+  Snackbar: undefined,
+  source: {
+    justifiedGallery: {
+      js: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery/dist/fjGallery.min.js',
+      css: 'https://cdn.jsdelivr.net/npm/flickr-justified-gallery/dist/fjGallery.min.css'
+    }
+  },
+  isPhotoFigcaption: false,
+  islazyload: false,
+  isAnchor: false
+}</script><script id="config-diff">var GLOBAL_CONFIG_SITE = {
+  title: '生活笔记',
+  isPost: true,
+  isHome: false,
+  isHighlightShrink: false,
+  isToc: true,
+  postUpdate: '2023-01-31 14:02:16'
+}</script><noscript><style type="text/css">
+  #nav {
+    opacity: 1
+  }
+  .justified-gallery img {
+    opacity: 1
+  }
+
+  #recent-posts time,
+  #post-meta time {
+    display: inline !important
+  }
+</style></noscript><script>(win=>{
+    win.saveToLocal = {
+      set: function setWithExpiry(key, value, ttl) {
+        if (ttl === 0) return
+        const now = new Date()
+        const expiryDay = ttl * 86400000
+        const item = {
+          value: value,
+          expiry: now.getTime() + expiryDay,
+        }
+        localStorage.setItem(key, JSON.stringify(item))
+      },
+
+      get: function getWithExpiry(key) {
+        const itemStr = localStorage.getItem(key)
+
+        if (!itemStr) {
+          return undefined
+        }
+        const item = JSON.parse(itemStr)
+        const now = new Date()
+
+        if (now.getTime() > item.expiry) {
+          localStorage.removeItem(key)
+          return undefined
+        }
+        return item.value
+      }
+    }
+  
+    win.getScript = url => new Promise((resolve, reject) => {
+      const script = document.createElement('script')
+      script.src = url
+      script.async = true
+      script.onerror = reject
+      script.onload = script.onreadystatechange = function() {
+        const loadState = this.readyState
+        if (loadState && loadState !== 'loaded' && loadState !== 'complete') return
+        script.onload = script.onreadystatechange = null
+        resolve()
+      }
+      document.head.appendChild(script)
+    })
+  
+      const asideStatus = saveToLocal.get('aside-status')
+      if (asideStatus !== undefined) {
+        if (asideStatus === 'hide') {
+          document.documentElement.classList.add('hide-aside')
+        } else {
+          document.documentElement.classList.remove('hide-aside')
+        }
+      }
+    
+    const detectApple = () => {
+      if(/iPad|iPhone|iPod|Macintosh/.test(navigator.userAgent)){
+        document.documentElement.classList.add('apple')
+      }
+    }
+    detectApple()
+    })(window)</script><link rel="stylesheet" href="/css/custom.css" media="defer" onload="this.media='all'"><meta name="generator" content="Hexo 5.4.2"></head><body><div id="web_bg"></div><div id="sidebar"><div id="menu-mask"></div><div id="sidebar-menus"><div class="avatar-img is-center"><img src="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212072358786.jpg" onerror="onerror=null;src='/img/friend_404.gif'" alt="avatar"/></div><div class="sidebar-site-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">44</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">28</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">10</div></a></div><hr/><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page group hide" href="javascript:void(0);"><i class="fa-fw fa fa-heartbeat"></i><span> 清单</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/gallery/"><i class="fa-fw fas fa-images"></i><span> 照片</span></a></li><li><a class="site-page child" href="/html/"><i class="fa-fw fas fa-images"></i><span> 单页面</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/comments/"><i class="fa-fw fas fa-envelope-open"></i><span> 留言板</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div></div></div><div class="post" id="body-wrap"><header class="post-bg" id="page-header" style="background-image: url('https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212081029348.webp')"><nav id="nav"><span id="blog_name"><a id="site-name" href="/">kevieの峡谷日记</a></span><div id="menus"><div id="search-button"><a class="site-page social-icon search"><i class="fas fa-search fa-fw"></i><span> 搜索</span></a></div><div class="menus_items"><div class="menus_item"><a class="site-page" href="/"><i class="fa-fw fas fa-home"></i><span> 首页</span></a></div><div class="menus_item"><a class="site-page" href="/archives/"><i class="fa-fw fas fa-archive"></i><span> 时间轴</span></a></div><div class="menus_item"><a class="site-page" href="/tags/"><i class="fa-fw fas fa-tags"></i><span> 标签</span></a></div><div class="menus_item"><a class="site-page" href="/categories/"><i class="fa-fw fas fa-folder-open"></i><span> 分类</span></a></div><div class="menus_item"><a class="site-page group hide" href="javascript:void(0);"><i class="fa-fw fa fa-heartbeat"></i><span> 清单</span><i class="fas fa-chevron-down"></i></a><ul class="menus_item_child"><li><a class="site-page child" href="/gallery/"><i class="fa-fw fas fa-images"></i><span> 照片</span></a></li><li><a class="site-page child" href="/html/"><i class="fa-fw fas fa-images"></i><span> 单页面</span></a></li></ul></div><div class="menus_item"><a class="site-page" href="/comments/"><i class="fa-fw fas fa-envelope-open"></i><span> 留言板</span></a></div><div class="menus_item"><a class="site-page" href="/link/"><i class="fa-fw fas fa-link"></i><span> 友链</span></a></div><div class="menus_item"><a class="site-page" href="/about/"><i class="fa-fw fas fa-heart"></i><span> 关于</span></a></div></div><div id="toggle-menu"><a class="site-page"><i class="fas fa-bars fa-fw"></i></a></div></div></nav><div id="post-info"><h1 class="post-title">生活笔记</h1><div id="post-meta"><div class="meta-firstline"><span class="post-meta-date"><i class="far fa-calendar-alt fa-fw post-meta-icon"></i><span class="post-meta-label">发表于</span><time class="post-meta-date-created" datetime="2023-12-21T09:58:37.000Z" title="发表于 2023-12-21 17:58:37">2023-12-21</time><span class="post-meta-separator">|</span><i class="fas fa-history fa-fw post-meta-icon"></i><span class="post-meta-label">更新于</span><time class="post-meta-date-updated" datetime="2023-01-31T06:02:16.510Z" title="更新于 2023-01-31 14:02:16">2023-01-31</time></span></div><div class="meta-secondline"><span class="post-meta-separator">|</span><span id="" data-flag-title="生活笔记"><i class="far fa-eye fa-fw post-meta-icon"></i><span class="post-meta-label">阅读量:</span><span id="twikoo_visitors"><i class="fa-solid fa-spinner fa-spin"></i></span></span></div></div></div></header><main class="layout" id="content-inner"><div id="post"><article class="post-content" id="article-container"><h2 id="自家菜单"><a href="#自家菜单" class="headerlink" title="自家菜单"></a>自家菜单</h2><div class="fj-gallery"><p><img src="https://img.keviecc.site/2023/01/12/396f3ba4-c276-4860-8d55-c7b798c38002/%E8%8F%9C%E5%8D%951.jpg"></p>
+          </div>
+</br>
+
+<h2 id="清单"><a href="#清单" class="headerlink" title="清单"></a>清单</h2><h3 id="菜类"><a href="#菜类" class="headerlink" title="菜类"></a>菜类</h3><ul>
+<li>蒜香菜心</li>
+<li>清蒸南瓜</li>
+<li>芹菜炒木耳</li>
+<li>炒韭菜</li>
+<li>炒生菜</li>
+<li>炒菠菜</li>
+<li>炒豆角</li>
+<li>豆芽炒咸菜</li>
+<li>炒春菜</li>
+<li>白菜虾米</li>
+<li>炒芥兰</li>
+<li>炒椰菜花</li>
+<li>炒荷兰豆</li>
+</ul>
+<h3 id="肉类"><a href="#肉类" class="headerlink" title="肉类"></a>肉类</h3><ul>
+<li>青椒炒肉</li>
+<li>西蓝花炒肉</li>
+<li>番茄炒蛋</li>
+<li>香菇焖鸡</li>
+<li>牛肉蒸榨菜</li>
+<li>牛腩焖萝卜</li>
+<li>清蒸排骨</li>
+<li>卤猪脚</li>
+<li>豆腐焖肉</li>
+<li>煎鸡蛋</li>
+<li>排骨焖苹果醋</li>
+<li>猪肚炒青椒</li>
+<li>猪肚炒咸菜</li>
+<li>炸鸡翅</li>
+<li>卤鸡翅</li>
+<li>可乐鸡翅</li>
+<li>椰菜花炒腊肉</li>
+<li>冬瓜菜谱虾米炒瘦肉</li>
+<li>荷兰豆炒腊肠</li>
+<li>椰菜花炒腊肠</li>
+<li>芥兰炒腊肉</li>
+<li>包菜炒肉</li>
+<li>莴笋炒肉</li>
+<li>鲜鱿炒青瓜</li>
+<li>白菜焖干贝</li>
+<li>水瓜炒瘦肉</li>
+<li>炒牛肉粿</li>
+<li>卤鸭(熟食)</li>
+<li>卤鹅(熟食)</li>
+<li>花生猪脚片(熟食)</li>
+<li>手撕鸡(熟食)</li>
+</ul>
+<h3 id="鱼类"><a href="#鱼类" class="headerlink" title="鱼类"></a>鱼类</h3><ul>
+<li>清蒸鱼</li>
+<li>焖鱼</li>
+<li>草鱼焖番茄</li>
+<li>梅汁菜谱鳗鱼</li>
+</ul>
+<h3 id="汤类"><a href="#汤类" class="headerlink" title="汤类"></a>汤类</h3><ul>
+<li>乌鸡人参汤</li>
+<li>乌鸡北芪党参龙眼干红枣枸杞汤</li>
+<li>乌鸡田七汤</li>
+<li>羊肉甘蔗马蹄爽汤</li>
+<li>猪肚白萝卜汤</li>
+<li>羊肉冬归北芪党参龙眼干红枣枸杞汤</li>
+<li>猪肚鸡腿陈皮汤</li>
+<li>鲫鱼豆腐瘦肉汤</li>
+<li>鲫鱼西洋菜汤</li>
+<li>紫菜肉丸汤</li>
+<li>西洋菜牛肉丸汤</li>
+<li>排骨红萝卜玉米马蹄爽汤</li>
+<li>橄榄油柑瘦肉汤</li>
+<li>石斛麦冬玉竹汤</li>
+<li>龙芝龙骨汤</li>
+<li>苦瓜黄豆汤</li>
+<li>白豆鸡脚汤</li>
+<li>莲藕花生板栗排骨汤</li>
+<li>冬瓜鸭脚荷叶薏米汤</li>
+<li>土茯苓排骨牛大力五指毛桃汤</li>
+<li>鱼头豆腐汤</li>
+<li>橄榄石斛麦冬汤</li>
+<li>水瓜肉丸汤</br></li>
+</ul>
+<h2 id="待试验菜单"><a href="#待试验菜单" class="headerlink" title="待试验菜单"></a>待试验菜单</h2><h3 id="煲鸡腿"><a href="#煲鸡腿" class="headerlink" title="煲鸡腿"></a><code>煲鸡腿</code></h3><ol>
+<li><strong><code>鸡腿</code>清洗干净，两面<code>打上花刀</code></strong></li>
+<li><strong>放<code>葱姜</code>，<code>料酒</code>，<code>生抽</code>，<code>老抽</code>，一大勺<code>奥尔良腌料</code>，<code>抓拌均匀</code>腌制20分钟</strong></li>
+<li><strong>电饭锅底铺<code>姜片</code>，<code>洋葱</code>，放入<code>腌好的鸡腿</code>，导入<code>腌料汁</code>，按煮饭键30分钟</strong></li>
+</ol>
+<h3 id="可乐鸡翅"><a href="#可乐鸡翅" class="headerlink" title="可乐鸡翅"></a><code>可乐鸡翅</code></h3><ol>
+<li><strong>把<code>鸡翅</code>剪成两半，放一点<code>醋</code>抓握，抓到有点<code>粘手</code></strong></li>
+<li><strong>加入<code>清水</code>洗两遍，最后用<code>清水</code>泡<code>10+分钟</code>，把水分控干</strong></li>
+<li><strong><code>葱姜丝</code>里倒入<code>料酒</code>，把<code>葱姜丝</code>拧巴拧巴出味,然后把<code>料酒</code>倒入<code>鸡翅</code>里</strong></li>
+<li><strong><code>鸡翅</code>加入一勺<code>生抽</code>，加入<code>奥尔良腌料</code>（一斤鸡翅10克），然后抓握，抓到有点<code>粘手</code>，腌制<code>15分钟</code></strong></li>
+<li><strong><code>锅不热油（粘锅加点油）</code>，把<code>鸡翅</code>直接放下锅<code>煎</code>一下，煎到有点<code>金黄色</code>，加入姜片，煎出姜味</strong></li>
+<li><strong>加入<code>可乐</code>没过鸡翅，<code>小火煮两分钟不盖</code>去腥，盖上<code>15-20分钟</code>打开后<code>收汁</code>出锅</strong></li>
+</ol>
+<h3 id="蒜香鸡翅"><a href="#蒜香鸡翅" class="headerlink" title="蒜香鸡翅"></a><code>蒜香鸡翅</code></h3><ol>
+<li><strong>把<code>鸡翅</code>剪成两半，放一点<code>醋</code>抓握<code>1分钟</code>加入<code>面粉</code>，抓到有点<code>粘手</code></strong></li>
+<li><strong>加入<code>清水</code>洗两遍，最后用<code>清水</code>泡<code>10+分钟</code>，把水分控干</strong></li>
+<li><strong><code>葱姜丝</code>里倒入<code>料酒</code>，把<code>葱姜丝</code>拧巴拧巴出味,然后把<code>料酒</code>倒入<code>鸡翅</code>里</strong></li>
+<li><strong><code>鸡翅</code>加入一勺<code>生抽</code>和<code>耗油</code>，加入<code>奥尔良腌料</code>（一斤鸡翅10克），然后抓握，抓到有点<code>粘手</code>，腌制<code>15分钟</code></strong></li>
+<li><strong>把大蒜弄成<code>蒜末</code>（配菜有<code>洋葱</code>和<code>青椒</code>搭配一点）</strong></li>
+<li><strong><code>粘锅加点油</code>，把<code>鸡翅</code>直接放下锅<code>煎</code>一下，煎到有点<code>金黄色</code>后<code>盛出来</code></strong></li>
+<li><strong>倒入<code>蒜末</code>到锅里煎出香味，炒至<code>金黄</code>后（有配料的放入配料炒出香味）</strong></li>
+<li><strong>把鸡翅倒入锅里<code>大火翻炒</code>出香味出锅</strong></li>
+</ol>
+<h3 id="红烧鸡翅"><a href="#红烧鸡翅" class="headerlink" title="红烧鸡翅"></a><code>红烧鸡翅</code></h3><ol>
+<li><strong><code>鸡翅</code>清洗干净，两面<code>打上花刀</code>，准备<code>蒜</code>，<code>葱</code>，<code>姜</code></strong></li>
+<li><strong><code>鸡翅冷水下锅</code>，加点<code>料酒</code>焯水，开锅焯个<code>3-5分钟</code>后盛出，<code>温水</code>洗洗</strong></li>
+<li><strong>锅里放入<code>10+块冰糖</code>，<code>中火</code>把<code>冰糖</code>熬<code>融化</code>后，用<code>小火</code>熬到<code>拔丝过后</code>出现<code>小气泡</code></strong></li>
+<li><strong>把鸡翅下锅炒一下<code>上色</code>和<code>去腥</code>，把大蒜下锅炒出<code>蒜香味</code>后，倒入<code>葱</code>，<code>姜</code>炒香</strong></li>
+<li><strong>加入<code>料酒</code>，<code>生抽</code>，一点<code>老抽</code>，翻炒均匀后加入<code>开水</code>没过鸡翅</strong></li>
+<li><strong>加入<code>盐</code>和<code>鸡精</code>后盖上<code>留点缝去腥</code>，炖<code>20分钟</code>，开盖<code>收汁</code>出锅</strong></li>
+</ol>
+<h3 id="红烧肉"><a href="#红烧肉" class="headerlink" title="红烧肉"></a><code>红烧肉</code></h3><ol>
+<li><strong>用<code>喷火枪</code>给肉撩一下，撩到<code>黑糊</code>，放到水里泡着后刷洗干净</strong></li>
+<li><strong>把肉切成一大块一大块，准备<code>蒜</code>，<code>葱</code>，<code>姜</code>，一片<code>香叶</code>，一个<code>八角</code>，几粒<code>花椒</code>，一小片<code>桂皮</code>，几个<code>干辣椒</code></strong></li>
+<li><strong><code>五花肉冷水下锅</code>，加点<code>料酒</code>焯水，开锅焯个<code>5分钟</code>后盛出，<code>温水</code>洗洗</strong></li>
+<li><strong><code>锅不热油</code>，把<code>五花肉</code>直接下锅<code>把油都炒出来</code>后盛出来</strong></li>
+<li><strong>锅里放点油，放入<code>10+块冰糖</code>，<code>中火</code>把<code>冰糖</code>熬<code>融化</code>后，用<code>小火</code>熬到<code>拔丝过后</code>出现<code>小气泡</code></strong></li>
+<li><strong>把<code>小气泡打散</code>后倒入五花肉下锅炒一下<code>上色</code>，把<code>配料</code>全部下锅<code>翻炒</code></strong></li>
+<li><strong>加入<code>料酒</code>，半勺<code>生抽</code>，一点<code>老抽</code>，一点<code>耗油</code>，翻炒均匀后加入<code>开水</code>没过五花肉，开锅炖<code>3-5分钟去腥</code></strong></li>
+<li><strong><code>小火炖30分钟</code>，开锅后加入<code>盐</code>和<code>鸡精</code>后，<code>炖20分钟</code>，把香料挑出来，<code>收汁</code>出锅</strong></br></li>
+</ol>
+<h2 id="居住证续期"><a href="#居住证续期" class="headerlink" title="居住证续期"></a>居住证续期</h2><ul>
+<li><strong>身份证</strong></li>
+<li><strong>居住证</strong></li>
+<li><strong>购房合同</strong></li>
+<li><strong>户口本</strong></li>
+</ul>
+</article><div class="post-copyright"><div class="post-copyright__author"><span class="post-copyright-meta">文章作者: </span><span class="post-copyright-info"><a href="https://blog.kevie.site">kevie</a></span></div><div class="post-copyright__type"><span class="post-copyright-meta">文章链接: </span><span class="post-copyright-info"><a href="https://blog.kevie.site/2023/12/21/20230131-9996/">https://blog.kevie.site/2023/12/21/20230131-9996/</a></span></div><div class="post-copyright__notice"><span class="post-copyright-meta">版权声明: </span><span class="post-copyright-info">本博客所有文章除特别声明外，均采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a> 许可协议。转载请注明来自 <a href="https://blog.kevie.site" target="_blank">kevieの峡谷日记</a>！</span></div></div><div class="tag_share"><div class="post-meta__tag-list"><a class="post-meta__tags" href="/tags/%E7%AC%94%E8%AE%B0/">笔记</a></div><div class="post_share"><div class="social-share" data-image="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212081029348.webp" data-sites="facebook,twitter,wechat,weibo,qq"></div><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/butterfly-extsrc/sharejs/dist/css/share.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/sharejs/dist/js/social-share.min.js" defer></script></div></div><div class="relatedPosts"><div class="headline"><i class="fas fa-thumbs-up fa-fw"></i><span>相关推荐</span></div><div class="relatedPosts-list"><div><a href="/2022/12/24/20221224-1516/" title="电商学习笔记"><img class="cover" src="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212081030453.webp" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2022-12-24</div><div class="title">电商学习笔记</div></div></a></div><div><a href="/2022/12/25/20221225-1437/" title="批量重命名文件"><img class="cover" src="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212072151662.webp" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2022-12-25</div><div class="title">批量重命名文件</div></div></a></div><div><a href="/2022/12/28/20221228-1454/" title="百度云加速方法"><img class="cover" src="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212081030453.webp" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2022-12-28</div><div class="title">百度云加速方法</div></div></a></div><div><a href="/2023/01/06/20230106-1413/" title="生活笔记"><img class="cover" src="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212072151662.webp" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2023-01-06</div><div class="title">生活笔记</div></div></a></div><div><a href="/2023/01/09/20230109-1102/" title="开心一刻"><img class="cover" src="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212081022914.webp" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2023-01-09</div><div class="title">开心一刻</div></div></a></div><div><a href="/2023/12/31/20230117-9999/" title="拍摄准备笔记"><img class="cover" src="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212081022914.webp" alt="cover"><div class="content is-center"><div class="date"><i class="far fa-calendar-alt fa-fw"></i> 2023-12-31</div><div class="title">拍摄准备笔记</div></div></a></div></div></div><hr/><div id="post-comment"><div class="comment-head"><div class="comment-headline"><i class="fas fa-comments fa-fw"></i><span> 评论</span></div></div><div class="comment-wrap"><div><div id="twikoo-wrap"></div></div></div></div></div><div class="aside-content" id="aside-content"><div class="card-widget card-info"><div class="is-center"><div class="avatar-img"><img src="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212072358786.jpg" onerror="this.onerror=null;this.src='/img/friend_404.gif'" alt="avatar"/></div><div class="author-info__name">kevie</div><div class="author-info__description"></div></div><div class="card-info-data site-data is-center"><a href="/archives/"><div class="headline">文章</div><div class="length-num">44</div></a><a href="/tags/"><div class="headline">标签</div><div class="length-num">28</div></a><a href="/categories/"><div class="headline">分类</div><div class="length-num">10</div></a></div><a id="card-info-btn" target="_blank" rel="noopener" href="https://github.com/xxxxxx"><i class="fab fa-github"></i><span>Follow Me</span></a><div class="card-info-social-icons is-center"><a class="social-icon" href="https://github.com/honghhh" target="_blank" title="Github"><i class="fab fa-github"></i></a><a class="social-icon" href="mailto:350569321hhh@gmail.com" target="_blank" title="Email"><i class="fas fa-envelope"></i></a></div></div><div class="card-widget card-announcement"><div class="item-headline"><i class="fas fa-bullhorn fa-shake"></i><span>公告</span></div><div class="announcement_content">一个不知名的快乐风男，操作抽象喜欢浪，峡谷下饭我最棒！</div></div><div class="sticky_layout"><div class="card-widget" id="card-toc"><div class="item-headline"><i class="fas fa-stream"></i><span>目录</span><span class="toc-percentage"></span></div><div class="toc-content"><ol class="toc"><li class="toc-item toc-level-2"><a class="toc-link" href="#%E8%87%AA%E5%AE%B6%E8%8F%9C%E5%8D%95"><span class="toc-number">1.</span> <span class="toc-text">自家菜单</span></a></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E6%B8%85%E5%8D%95"><span class="toc-number">2.</span> <span class="toc-text">清单</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E8%8F%9C%E7%B1%BB"><span class="toc-number">2.1.</span> <span class="toc-text">菜类</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E8%82%89%E7%B1%BB"><span class="toc-number">2.2.</span> <span class="toc-text">肉类</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E9%B1%BC%E7%B1%BB"><span class="toc-number">2.3.</span> <span class="toc-text">鱼类</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E6%B1%A4%E7%B1%BB"><span class="toc-number">2.4.</span> <span class="toc-text">汤类</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%BE%85%E8%AF%95%E9%AA%8C%E8%8F%9C%E5%8D%95"><span class="toc-number">3.</span> <span class="toc-text">待试验菜单</span></a><ol class="toc-child"><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%85%B2%E9%B8%A1%E8%85%BF"><span class="toc-number">3.1.</span> <span class="toc-text">煲鸡腿</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E5%8F%AF%E4%B9%90%E9%B8%A1%E7%BF%85"><span class="toc-number">3.2.</span> <span class="toc-text">可乐鸡翅</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E8%92%9C%E9%A6%99%E9%B8%A1%E7%BF%85"><span class="toc-number">3.3.</span> <span class="toc-text">蒜香鸡翅</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%BA%A2%E7%83%A7%E9%B8%A1%E7%BF%85"><span class="toc-number">3.4.</span> <span class="toc-text">红烧鸡翅</span></a></li><li class="toc-item toc-level-3"><a class="toc-link" href="#%E7%BA%A2%E7%83%A7%E8%82%89"><span class="toc-number">3.5.</span> <span class="toc-text">红烧肉</span></a></li></ol></li><li class="toc-item toc-level-2"><a class="toc-link" href="#%E5%B1%85%E4%BD%8F%E8%AF%81%E7%BB%AD%E6%9C%9F"><span class="toc-number">4.</span> <span class="toc-text">居住证续期</span></a></li></ol></div></div><div class="card-widget card-recent-post"><div class="item-headline"><i class="fas fa-history"></i><span>最新文章</span></div><div class="aside-list"><div class="aside-list-item"><a class="thumbnail" href="/2023/12/31/20230131-9998/" title="计划"><img src="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212081029348.webp" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="计划"/></a><div class="content"><a class="title" href="/2023/12/31/20230131-9998/" title="计划">计划</a><time datetime="2023-12-31T15:05:50.000Z" title="发表于 2023-12-31 23:05:50">2023-12-31</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2023/12/31/20230117-9999/" title="拍摄准备笔记"><img src="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212081022914.webp" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="拍摄准备笔记"/></a><div class="content"><a class="title" href="/2023/12/31/20230117-9999/" title="拍摄准备笔记">拍摄准备笔记</a><time datetime="2023-12-31T08:05:50.000Z" title="发表于 2023-12-31 16:05:50">2023-12-31</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2023/12/21/20230131-9997/" title="好朋友之间的快乐"><img src="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212081022914.webp" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="好朋友之间的快乐"/></a><div class="content"><a class="title" href="/2023/12/21/20230131-9997/" title="好朋友之间的快乐">好朋友之间的快乐</a><time datetime="2023-12-21T09:59:37.000Z" title="发表于 2023-12-21 17:59:37">2023-12-21</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2023/12/21/20230131-9996/" title="生活笔记"><img src="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212081029348.webp" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="生活笔记"/></a><div class="content"><a class="title" href="/2023/12/21/20230131-9996/" title="生活笔记">生活笔记</a><time datetime="2023-12-21T09:58:37.000Z" title="发表于 2023-12-21 17:58:37">2023-12-21</time></div></div><div class="aside-list-item"><a class="thumbnail" href="/2023/01/22/20230122-1548/" title="一些书单"><img src="https://cdn.staticaly.com/gh/honghhh/image@main/Typora/202212081030453.webp" onerror="this.onerror=null;this.src='/img/404.jpg'" alt="一些书单"/></a><div class="content"><a class="title" href="/2023/01/22/20230122-1548/" title="一些书单">一些书单</a><time datetime="2023-01-22T07:48:38.000Z" title="发表于 2023-01-22 15:48:38">2023-01-22</time></div></div></div></div></div></div></main><footer id="footer"><div id="footer-wrap"><div class="copyright">&copy;2022 - 2023 By kevie</div><div class="footer_custom_text">I wish you to become your own sun, no need to rely on who's light.<p><a target="_blank" href="https://hexo.io/"><img src="https://img.shields.io/badge/Frame-Hexo-blue?style=flat&logo=hexo" title="博客框架为Hexo"></a>&nbsp;<a target="_blank" href="https://butterfly.js.org/"><img src="https://img.shields.io/badge/Theme-Butterfly-6513df?style=flat&logo=bitdefender" title="主题采用butterfly"></a>&nbsp;<a target="_blank" href="https://www.jsdelivr.com/"><img src="https://img.shields.io/badge/CDN-jsDelivr-orange?style=flat&logo=jsDelivr" title="本站使用JsDelivr为静态资源提供CDN加速"></a> &nbsp;<a target="_blank" href="https://vercel.com/ "><img src="https://img.shields.io/badge/Hosted-Vervel-brightgreen?style=flat&logo=Vercel" title="本站采用双线部署，默认线路托管于Vercel"></a>&nbsp;<a target="_blank" href="https://vercel.com/ "><img src="https://img.shields.io/badge/Hosted-Coding-0cedbe?style=flat&logo=Codio" title="本站采用双线部署，联通线路托管于Coding"></a>&nbsp;<a target="_blank" href="https://github.com/"><img src="https://img.shields.io/badge/Source-Github-d021d6?style=flat&logo=GitHub" title="本站项目由Gtihub托管"></a>&nbsp;<a target="_blank" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/Copyright-BY--NC--SA%204.0-d42328?style=flat&logo=Claris" title="本站采用知识共享署名-非商业性使用-相同方式共享4.0国际许可协议进行许可"></a></p></div></div></footer></div><div id="rightside"><div id="rightside-config-hide"><button id="readmode" type="button" title="阅读模式"><i class="fas fa-book-open"></i></button><button id="hide-aside-btn" type="button" title="单栏和双栏切换"><i class="fas fa-arrows-alt-h"></i></button></div><div id="rightside-config-show"><button id="rightside_config" type="button" title="设置"><i class="fas fa-cog fa-spin"></i></button><button class="close" id="mobile-toc-button" type="button" title="目录"><i class="fas fa-list-ul"></i></button><a id="to_comment" href="#post-comment" title="直达评论"><i class="fas fa-comments"></i></a><button id="go-up" type="button" title="回到顶部"><i class="fas fa-arrow-up"></i></button></div></div><div id="local-search"><div class="search-dialog"><nav class="search-nav"><span class="search-dialog-title">搜索</span><span id="loading-status"></span><button class="search-close-button"><i class="fas fa-times"></i></button></nav><div class="is-center" id="loading-database"><i class="fas fa-spinner fa-pulse"></i><span>  数据库加载中</span></div><div class="search-wrap"><div id="local-search-input"><div class="local-search-box"><input class="local-search-box--input" placeholder="搜索文章" type="text"/></div></div><hr/><div id="local-search-results"></div></div></div><div id="search-mask"></div></div><div><script src="/js/utils.js"></script><script src="/js/main.js"></script><script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui/dist/fancybox.umd.min.js"></script><script src="/js/search/local-search.js"></script><div class="js-pjax"><script>(()=>{
+  const init = () => {
+    twikoo.init(Object.assign({
+      el: '#twikoo-wrap',
+      envId: 'https://twikoo.kevie.site/',
+      region: '',
+      onCommentLoaded: function () {
+        btf.loadLightbox(document.querySelectorAll('#twikoo .tk-content img:not(.tk-owo-emotion)'))
+      }
+    }, null))
+  }
+
+  const getCount = () => {
+    const countELement = document.getElementById('twikoo-count')
+    if(!countELement) return
+    twikoo.getCommentsCount({
+      envId: 'https://twikoo.kevie.site/',
+      region: '',
+      urls: [window.location.pathname],
+      includeReply: false
+    }).then(function (res) {
+      countELement.innerText = res[0].count
+    }).catch(function (err) {
+      console.error(err);
+    });
+  }
+
+  const runFn = () => {
+    init()
+    
+  }
+
+  const loadTwikoo = () => {
+    if (typeof twikoo === 'object') {
+      setTimeout(runFn,0)
+      return
+    } 
+    getScript('https://cdn.jsdelivr.net/npm/twikoo/dist/twikoo.all.min.js').then(runFn)
+  }
+
+  if ('Twikoo' === 'Twikoo' || !false) {
+    if (false) btf.loadComment(document.getElementById('twikoo-wrap'), loadTwikoo)
+    else loadTwikoo()
+  } else {
+    window.loadOtherComment = () => {
+      loadTwikoo()
+    }
+  }
+})()</script></div><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div></body></html>
