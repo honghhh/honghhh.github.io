@@ -1239,17 +1239,6 @@
     
     
     <entry>
-      <title>关于自己</title>
-      <link href="/about/index.html"/>
-      <url>/about/index.html</url>
-      
-        <content type="html"><![CDATA[ <center>     <h1>基本信息</h1> </center><hr><h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><ul><li>性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 年 龄：25 </li><li>籍 贯：广东汕头 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;邮 箱：<a href="mailto:&#50;&#x38;&#50;&#49;&#49;&#x33;&#50;&#56;&#48;&#53;&#x68;&#104;&#104;&#64;&#103;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#99;&#111;&#x6d;">&#50;&#x38;&#50;&#49;&#49;&#x33;&#50;&#56;&#48;&#53;&#x68;&#104;&#104;&#64;&#103;&#x6d;&#x61;&#105;&#x6c;&#x2e;&#99;&#111;&#x6d;</a> </li><li>专 业：计算机应用技术 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;岗 位：国际站运营</li></ul><hr><h2 id="工作及教育经历"><a href="#工作及教育经历" class="headerlink" title="工作及教育经历"></a>工作及教育经历</h2><ul><li>XXXX服饰有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2023.3 - 至今 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;运营 - 国际站运营 </li><li>XXXX贸易有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2022.1 - 2023.1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 运营 - 天猫运营 </li><li>XXXX科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2018.7 - 2022.1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  后端开发 - Java       </li><li>XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2021.9 - 2024.7 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 工商管理 - 本科         </li><li>XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2015.9 - 2018.7 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 计算机应用技术 - 大专  </li></ul><hr><h2 id="编程技能"><a href="#编程技能" class="headerlink" title="编程技能"></a>编程技能</h2><ul><li>掌握java基础，具有 J2EE 项目开发经验，熟悉 java 面向对象编程开发 </li><li>熟练掌握 spring、springMVC、mybaits、mybatisplu、springboot等开源框架技术，并能够用 ssm 框架进行项目的开发</li><li>熟练运用标准 SQL 语句,主要使用 mysql、oracle、sqlserver 等主流数据库, 使用powerdesigner进行数据表结构设计</li><li>有良好的代码编写习惯（合适的命名跟注释格式）</li><li>熟悉前端技术html + css + javascript +ajax</li><li>熟练运用 junit、debug 进行程序调试</li><li>熟练使用log4j 进行日志管理</li><li>熟练使用svn、git进行代码版本管理</li><li>熟练 tomcat、jetty 等应用服务器</li><li>熟练掌握 eclipse、 sts、idea 等开发工具</li><li>熟悉 jquery 、bootstrap、hui、h+、layui、ztree、iview 等前端框架的使用</li><li>熟悉dubbo、zookeeper、springcloud 微服务技术</li><li>熟悉redis缓存技术、activitymq消息组件、nginx反向代理服务器、solr搜索应用服务器、FreeMarker模板引擎</li><li>熟悉Linux常用命令和java运行环境搭建</li></ul><hr><h2 id="电商技能"><a href="#电商技能" class="headerlink" title="电商技能"></a>电商技能</h2><ul><li>负责店铺日常运营工作</li><li>掌握PS PR LR DW ME 剪映，熟悉AE</li></ul><hr><h2 id="项目经历"><a href="#项目经历" class="headerlink" title="项目经历"></a>项目经历</h2><ol><li>XXXX服饰有限公司 - 2023.3- 至今<ol><li>电商 - 国际站运营 - 2023.3- 至今<ul><li>负责阿里巴巴国际站主账号后台的管理工作，产品布局，优化排名工作</li><li>店铺整体把控，爆款打造</li></ul></li></ol></li></ol><ol start="2"><li>XXXX贸易有限公司 - 2022.1- 2022.至今<ol><li>电商 - 天猫运营 - 2022.1- 2022.至今<ul><li>负责天猫商城的运营工作，包括网店整体规划、装修、营销、推广、前期搭建。等系统经营性工作</li><li>对店铺相关的数据进行分析，并根据结果提出店铺运营的改进方案，优化店铺及商品排名</li><li>制定推广计划、实施评估与监控，精通直通车 引力魔方，万相台， 淘宝客 推广工具</li><li>负责天猫活动报名，包括聚划算、预售、官方活动等，争取活动资源 独立策划活动并带领团队完成</li><li>对公司的产品进行短视频规划，规划逛逛短视频投放，提高公司产品曝光量</li></ul></li></ol></li></ol><ol start="3"><li>XXXX科技有限公司 - 2018.7 - 2022.1<ol><li>商城系统 - 负责后端开发 - 2018.7- 2021.2<ul><li>实现后台登录、操作员管理、角色管理、角色授权、日志管理、订单管理、统计等功能</li><li>技术框架：spring + springmvc + mybatis + maven + ajax + jquery+ bootstrap + svn</li><li>项目线上环境配置</li></ul></li><li>ERP系统 - 负责后端开发 - 2021.2- 2022.1<ul><li>出入库管理、锁板管理、文件发送、OA审批流等功能</li><li>技术框架：spring + springmvc + mybatis plus + maven + ajax + iview + git</li><li>项目线上环境配置</li></ul></li></ol></li></ol><hr><h2 id="技能证书"><a href="#技能证书" class="headerlink" title="技能证书"></a>技能证书</h2><ul><li>网页设计师中级证书</li><li>Java程序设计工程师技术水平中级证书</li><li>数据库应用系统设计工程师技术水平中级证书</li><li>网络管理工程师中级证书</li><li>Photoshop四级证书</li><li>英语A级证书</li><li>计算机一级证书</li></ul><hr><h2 id="获奖经历"><a href="#获奖经历" class="headerlink" title="获奖经历"></a>获奖经历</h2><ul><li>2015-2016学年度青年志愿者服务活动被评为 “优秀青年志愿者”</li></ul><hr><h2 id="个人账号"><a href="#个人账号" class="headerlink" title="个人账号"></a>个人账号</h2><ul><li>blog 地址：<a href="https://honghhh.github.io/">https://honghhh.github.io</a></li><li>github 地址：<a href="https://github.com/honghhh">https://github.com/honghhh</a></li></ul><hr><h2 id="个人简介"><a href="#个人简介" class="headerlink" title="个人简介"></a>个人简介</h2><p>本人性格内向，出门都走下水道，买东西不敢给钱，精通打卡式聊天，一个月稳定2800，对自己有着清晰的职业规划，我会努力在50岁之前月收入达到3200，无不良嗜好，思想成熟，做事稳重，喜欢散播欢乐散播爱</p><hr><h2 id="其他信息"><a href="#其他信息" class="headerlink" title="其他信息"></a>其他信息</h2><ul><li>喜欢游戏、电影、音乐</li><li>喜欢哈沙ki</li><li>喜欢旅游</li></ul><hr><h2 id="作品"><a href="#作品" class="headerlink" title="作品"></a>作品</h2><div class="fj-gallery"><p><img src="https://img.keviecc.online/2023/12/05/ce8057b0-5712-4f37-a855-0d8c76d24379/1.jpg"><br><img src="https://img.keviecc.online/2023/12/05/1eb572db-7039-44dd-82d9-6a10a1ac8527/2.jpg"></p>          </div><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">    <iframe src="//player.bilibili.com/player.html?aid=519864340&bvid=BV1Sg411W7Ak&cid=950708553&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"> </iframe></div><br/><hr><h1 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h1><blockquote><p>欢迎与我交流，围观朋友圈，做点赞之交</p></blockquote>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>分类</title>
       <link href="/categories/index.html"/>
       <url>/categories/index.html</url>
@@ -1261,11 +1250,11 @@
     
     
     <entry>
-      <title>留言板</title>
-      <link href="/comments/index.html"/>
-      <url>/comments/index.html</url>
+      <title>关于自己</title>
+      <link href="/about/index.html"/>
+      <url>/about/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[ <center>     <h1>基本信息</h1> </center><hr><h2 id="个人信息"><a href="#个人信息" class="headerlink" title="个人信息"></a>个人信息</h2><ul><li>性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 年 龄：25 </li><li>籍 贯：广东汕头 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;邮 箱：<a href="mailto:&#x32;&#56;&#50;&#x31;&#x31;&#51;&#50;&#56;&#x30;&#53;&#x68;&#x68;&#104;&#x40;&#103;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#x6d;">&#x32;&#56;&#50;&#x31;&#x31;&#51;&#50;&#56;&#x30;&#53;&#x68;&#x68;&#104;&#x40;&#103;&#109;&#x61;&#105;&#x6c;&#x2e;&#x63;&#111;&#x6d;</a> </li><li>专 业：计算机应用技术 &emsp;&emsp;&emsp;&emsp;&emsp;&ensp;岗 位：国际站运营</li></ul><hr><h2 id="工作及教育经历"><a href="#工作及教育经历" class="headerlink" title="工作及教育经历"></a>工作及教育经历</h2><ul><li>XXXX服饰有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2023.3 - 至今 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;运营 - 国际站运营 </li><li>XXXX贸易有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2022.1 - 2023.1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 运营 - 天猫运营 </li><li>XXXX科技有限公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2018.7 - 2022.1 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  后端开发 - Java       </li><li>XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2021.9 - 2024.7 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 工商管理 - 本科         </li><li>XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2015.9 - 2018.7 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp; 计算机应用技术 - 大专  </li></ul><hr><h2 id="编程技能"><a href="#编程技能" class="headerlink" title="编程技能"></a>编程技能</h2><ul><li>掌握java基础，具有 J2EE 项目开发经验，熟悉 java 面向对象编程开发 </li><li>熟练掌握 spring、springMVC、mybaits、mybatisplu、springboot等开源框架技术，并能够用 ssm 框架进行项目的开发</li><li>熟练运用标准 SQL 语句,主要使用 mysql、oracle、sqlserver 等主流数据库, 使用powerdesigner进行数据表结构设计</li><li>有良好的代码编写习惯（合适的命名跟注释格式）</li><li>熟悉前端技术html + css + javascript +ajax</li><li>熟练运用 junit、debug 进行程序调试</li><li>熟练使用log4j 进行日志管理</li><li>熟练使用svn、git进行代码版本管理</li><li>熟练 tomcat、jetty 等应用服务器</li><li>熟练掌握 eclipse、 sts、idea 等开发工具</li><li>熟悉 jquery 、bootstrap、hui、h+、layui、ztree、iview 等前端框架的使用</li><li>熟悉dubbo、zookeeper、springcloud 微服务技术</li><li>熟悉redis缓存技术、activitymq消息组件、nginx反向代理服务器、solr搜索应用服务器、FreeMarker模板引擎</li><li>熟悉Linux常用命令和java运行环境搭建</li></ul><hr><h2 id="电商技能"><a href="#电商技能" class="headerlink" title="电商技能"></a>电商技能</h2><ul><li>负责店铺日常运营工作</li><li>掌握PS PR LR DW ME 剪映，熟悉AE</li></ul><hr><h2 id="项目经历"><a href="#项目经历" class="headerlink" title="项目经历"></a>项目经历</h2><ol><li>XXXX服饰有限公司 - 2023.3- 至今<ol><li>电商 - 国际站运营 - 2023.3- 至今<ul><li>负责阿里巴巴国际站主账号后台的管理工作，产品布局，优化排名工作</li><li>店铺整体把控，爆款打造</li></ul></li></ol></li></ol><ol start="2"><li>XXXX贸易有限公司 - 2022.1- 2022.至今<ol><li>电商 - 天猫运营 - 2022.1- 2022.至今<ul><li>负责天猫商城的运营工作，包括网店整体规划、装修、营销、推广、前期搭建。等系统经营性工作</li><li>对店铺相关的数据进行分析，并根据结果提出店铺运营的改进方案，优化店铺及商品排名</li><li>制定推广计划、实施评估与监控，精通直通车 引力魔方，万相台， 淘宝客 推广工具</li><li>负责天猫活动报名，包括聚划算、预售、官方活动等，争取活动资源 独立策划活动并带领团队完成</li><li>对公司的产品进行短视频规划，规划逛逛短视频投放，提高公司产品曝光量</li></ul></li></ol></li></ol><ol start="3"><li>XXXX科技有限公司 - 2018.7 - 2022.1<ol><li>商城系统 - 负责后端开发 - 2018.7- 2021.2<ul><li>实现后台登录、操作员管理、角色管理、角色授权、日志管理、订单管理、统计等功能</li><li>技术框架：spring + springmvc + mybatis + maven + ajax + jquery+ bootstrap + svn</li><li>项目线上环境配置</li></ul></li><li>ERP系统 - 负责后端开发 - 2021.2- 2022.1<ul><li>出入库管理、锁板管理、文件发送、OA审批流等功能</li><li>技术框架：spring + springmvc + mybatis plus + maven + ajax + iview + git</li><li>项目线上环境配置</li></ul></li></ol></li></ol><hr><h2 id="技能证书"><a href="#技能证书" class="headerlink" title="技能证书"></a>技能证书</h2><ul><li>网页设计师中级证书</li><li>Java程序设计工程师技术水平中级证书</li><li>数据库应用系统设计工程师技术水平中级证书</li><li>网络管理工程师中级证书</li><li>Photoshop四级证书</li><li>英语A级证书</li><li>计算机一级证书</li></ul><hr><h2 id="获奖经历"><a href="#获奖经历" class="headerlink" title="获奖经历"></a>获奖经历</h2><ul><li>2015-2016学年度青年志愿者服务活动被评为 “优秀青年志愿者”</li></ul><hr><h2 id="个人账号"><a href="#个人账号" class="headerlink" title="个人账号"></a>个人账号</h2><ul><li>blog 地址：<a href="https://honghhh.github.io/">https://honghhh.github.io</a></li><li>github 地址：<a href="https://github.com/honghhh">https://github.com/honghhh</a></li></ul><hr><h2 id="个人简介"><a href="#个人简介" class="headerlink" title="个人简介"></a>个人简介</h2><p>本人性格内向，出门都走下水道，买东西不敢给钱，精通打卡式聊天，一个月稳定2800，对自己有着清晰的职业规划，我会努力在50岁之前月收入达到3200，无不良嗜好，思想成熟，做事稳重，喜欢散播欢乐散播爱</p><hr><h2 id="其他信息"><a href="#其他信息" class="headerlink" title="其他信息"></a>其他信息</h2><ul><li>喜欢游戏、电影、音乐</li><li>喜欢哈沙ki</li><li>喜欢旅游</li></ul><hr><h2 id="作品"><a href="#作品" class="headerlink" title="作品"></a>作品</h2><div class="fj-gallery"><p><img src="https://img.keviecc.online/2023/12/05/ce8057b0-5712-4f37-a855-0d8c76d24379/1.jpg"><br><img src="https://img.keviecc.online/2023/12/05/1eb572db-7039-44dd-82d9-6a10a1ac8527/2.jpg"></p>          </div><div style="position: relative; width: 100%; height: 0; padding-bottom: 75%;">    <iframe src="//player.bilibili.com/player.html?aid=519864340&bvid=BV1Sg411W7Ak&cid=950708553&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position:absolute; height: 100%; width: 100%;"> </iframe></div><br/><hr><h1 id="备注"><a href="#备注" class="headerlink" title="备注"></a>备注</h1><blockquote><p>欢迎与我交流，围观朋友圈，做点赞之交</p></blockquote>]]></content>
       
     </entry>
     
@@ -1283,33 +1272,22 @@
     
     
     <entry>
+      <title>留言板</title>
+      <link href="/comments/index.html"/>
+      <url>/comments/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>图片</title>
       <link href="/gallery/index.html"/>
       <url>/gallery/index.html</url>
       
         <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2023/09/20/1fb5861a-fe4c-4694-85c3-1d915704438e/%E8%83%8C%E6%99%AF.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">壁纸专区</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/wallpaper'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2024/07/26/3d836bcf-83a6-4c42-873b-3f726e2c16ad/20240726141454.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">提升审美</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/taste'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2024/07/26/75b7b2a9-8f26-416e-9880-f7741b2350b7/20240726142749.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">instgram</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/instgram'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2024/07/26/fcbabdf9-66ca-4999-9bc9-40c83d96daa6/20240726142001.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">小红书</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/red'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2024/07/26/340bad19-8f0a-46f2-b122-b32e2dd59e22/20240726142207.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">拍人参考图</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/picture-people'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2024/07/26/6955327c-f384-41c3-b3ed-1a73dd4b8298/20240726143306.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">拍风景参考图</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/picture-fengjing'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2024/07/26/796bd242-7f72-4db8-87eb-5e14185523c2/20240726143434.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">五官参考图</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/face'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2024/07/26/ab25fdd0-5166-4a26-98c4-ad298d563796/20240726143631.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">房间布置参考图</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/room-design'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2024/07/26/e2344e7d-debe-4ced-8ac4-fd7abda33f8a/20240726143738.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">我的一眼万年</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/love'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2023/01/16/042c9230-caf7-4c96-a920-5d9c157690ed/09.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">记录生活</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/life'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2024/07/26/a59bacfa-3389-4233-b4b4-39f688005aed/20240726144000.jpg' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">书法</div>  <p>本站用作文章封面的图片，不保证分辨率</p>  <a href='/gallery/hand'></a>  </figcaption>  </figure>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>一些页面</title>
-      <link href="/html/index.html"/>
-      <url>/html/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2023/09/20/1fb5861a-fe4c-4694-85c3-1d915704438e/%E8%83%8C%E6%99%AF.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">真心话测试</div>  <p>LOVE1</p>  <a href='/html/page/love1.html'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2023/09/20/1fb5861a-fe4c-4694-85c3-1d915704438e/%E8%83%8C%E6%99%AF.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">我们一起走过的日子</div>  <p>LOVE2</p>  <a href='/html/page/love2.html'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2023/09/20/1fb5861a-fe4c-4694-85c3-1d915704438e/%E8%83%8C%E6%99%AF.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">看烟花</div>  <p>FIREWORKS BLOOM</p>  <a href='/html/page/fireworks.html'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2023/09/20/1fb5861a-fe4c-4694-85c3-1d915704438e/%E8%83%8C%E6%99%AF.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">带音乐的圣诞树</div>  <p>DANCING TREE</p>  <a href='/html/page/dancing-tree.html'></a>  </figcaption>  </figure>  </div>]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>友链</title>
-      <link href="/link/index.html"/>
-      <url>/link/index.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -1327,20 +1305,20 @@
     
     
     <entry>
-      <title>音乐</title>
-      <link href="/music/index.html"/>
-      <url>/music/index.html</url>
+      <title>一些页面</title>
+      <link href="/html/index.html"/>
+      <url>/html/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div class="gallery-group-main">  <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2023/09/20/1fb5861a-fe4c-4694-85c3-1d915704438e/%E8%83%8C%E6%99%AF.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">真心话测试</div>  <p>LOVE1</p>  <a href='/html/page/love1.html'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2023/09/20/1fb5861a-fe4c-4694-85c3-1d915704438e/%E8%83%8C%E6%99%AF.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">我们一起走过的日子</div>  <p>LOVE2</p>  <a href='/html/page/love2.html'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2023/09/20/1fb5861a-fe4c-4694-85c3-1d915704438e/%E8%83%8C%E6%99%AF.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">看烟花</div>  <p>FIREWORKS BLOOM</p>  <a href='/html/page/fireworks.html'></a>  </figcaption>  </figure>    <figure class="gallery-group">  <img class="gallery-group-img no-lightbox" src='https://img.keviecc.online/2023/09/20/1fb5861a-fe4c-4694-85c3-1d915704438e/%E8%83%8C%E6%99%AF.webp' alt="Group Image Gallery">  <figcaption>  <div class="gallery-group-name">带音乐的圣诞树</div>  <p>DANCING TREE</p>  <a href='/html/page/dancing-tree.html'></a>  </figcaption>  </figure>  </div>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>标签</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>音乐</title>
+      <link href="/music/index.html"/>
+      <url>/music/index.html</url>
       
         <content type="html"><![CDATA[]]></content>
       
@@ -1360,11 +1338,22 @@
     
     
     <entry>
-      <title>书法</title>
-      <link href="/gallery/hand/index.html"/>
-      <url>/gallery/hand/index.html</url>
+      <title>标签</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://img.keviecc.online/2024/07/26/95f7bef3-0bf0-41fe-a34a-6cf9487b9a8e/20240726144735.jpg"><br><img src="https://img.keviecc.online/2024/07/26/f2799aac-48d0-422b-8593-e8f337ebcd54/20240726144734.jpg"></p>          </div>]]></content>
+        <content type="html"><![CDATA[]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>友链</title>
+      <link href="/link/index.html"/>
+      <url>/link/index.html</url>
+      
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
@@ -1393,6 +1382,17 @@
     
     
     <entry>
+      <title>书法</title>
+      <link href="/gallery/hand/index.html"/>
+      <url>/gallery/hand/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://img.keviecc.online/2024/07/26/95f7bef3-0bf0-41fe-a34a-6cf9487b9a8e/20240726144735.jpg"><br><img src="https://img.keviecc.online/2024/07/26/f2799aac-48d0-422b-8593-e8f337ebcd54/20240726144734.jpg"></p>          </div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我的一眼万年</title>
       <link href="/gallery/love/index.html"/>
       <url>/gallery/love/index.html</url>
@@ -1415,11 +1415,11 @@
     
     
     <entry>
-      <title>拍人参考图</title>
-      <link href="/gallery/picture-people/index.html"/>
-      <url>/gallery/picture-people/index.html</url>
+      <title>房间布置参考图</title>
+      <link href="/gallery/room-design/index.html"/>
+      <url>/gallery/room-design/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://img.keviecc.online/2024/07/26/677c4254-cc8c-464a-a30b-26d7b6d04a7e/20240726150558.jpg"><br><img src="https://img.keviecc.online/2024/07/26/93f316d7-7cf1-45d8-9075-89c19336f697/20240726150532.jpg"><br><img src="https://img.keviecc.online/2024/07/26/0ef7bbb0-74d9-44d8-a87e-13fc5c921c1c/20240726150531.jpg"><br><img src="https://img.keviecc.online/2024/07/26/e486c759-b5c4-4115-9d41-9dbe81366edc/20240726150561.jpg"><br><img src="https://img.keviecc.online/2024/07/26/85347354-e0fe-474a-8722-616f68291c1a/20240726150563.jpg"><br><img src="https://img.keviecc.online/2024/07/26/e1a2c2c2-9fc4-4e44-b2cb-c8902db8e276/20240726150564.jpg"><br><img src="https://img.keviecc.online/2024/07/26/4e0968db-c9d2-4f3a-9c34-24d6f73021b0/20240726150533.jpg"><br><img src="https://img.keviecc.online/2024/07/26/81cd1261-6dc8-4768-b024-b17b67db0748/20240726150536.jpg"><br><img src="https://img.keviecc.online/2024/07/26/559b5dc4-9127-4e5f-bfab-35a8d7504e15/20240726150562.jpg"><br><img src="https://img.keviecc.online/2024/07/26/224f8e13-4005-4337-8004-84c2a35e79ec/20240726150537.jpg"><br><img src="https://img.keviecc.online/2024/07/26/2a910ba0-69d8-4fbd-a237-69a70b8d0bdb/20240726150538.jpg"><br><img src="https://img.keviecc.online/2024/07/26/c584f78d-2ef0-43db-9926-7992d9440af3/20240726150539.jpg"><br><img src="https://img.keviecc.online/2024/07/26/e73767d2-d632-4cea-b068-2177882224c9/20240726150543.jpg"><br><img src="https://img.keviecc.online/2024/07/26/6f01b075-0bc6-4640-847d-dad9335a7541/20240726150544.jpg"><br><img src="https://img.keviecc.online/2024/07/26/b036f983-d730-4ca8-9f11-d7d8f73d76ea/20240726150545.jpg"><br><img src="https://img.keviecc.online/2024/07/26/7bef5e4f-f713-468b-8f67-cd7c10c86f46/20240726150546.jpg"><br><img src="https://img.keviecc.online/2024/07/26/569c7ee4-92eb-4d87-b393-1c009facf863/20240726150547.jpg"><br><img src="https://img.keviecc.online/2024/07/26/d0377c4e-c4fc-4cde-bbc2-683cd1186e72/20240726150548.jpg"><br><img src="https://img.keviecc.online/2024/07/26/349f5449-0909-406f-a8af-a30bd73e3400/20240726150549.jpg"><br><img src="https://img.keviecc.online/2024/07/26/44dd45fb-e7aa-4e35-a319-c1ca954ca263/20240726150550.jpg"><br><img src="https://img.keviecc.online/2024/07/26/12271461-54d6-45ad-87ee-c277d5126807/20240726150551.jpg"><br><img src="https://img.keviecc.online/2024/07/26/be03c5aa-a7d4-48db-a978-c8dc096b167e/20240726150540.jpg"><br><img src="https://img.keviecc.online/2024/07/26/5ac230b1-7bb9-4811-b710-1ddd817dbf64/20240726150541.jpg"><br><img src="https://img.keviecc.online/2024/07/26/d38d3203-ce58-4b7b-b70e-860e1517a6cc/20240726150542.jpg"><br><img src="https://img.keviecc.online/2024/07/26/68bcc88d-eb95-43f6-a9fb-63a5cdb973bb/20240726150534.jpg"><br><img src="https://img.keviecc.online/2024/07/26/27406824-57e8-40c6-969c-7b120418417b/20240726150560.jpg"><br><img src="https://img.keviecc.online/2024/07/26/ae010f6a-aaff-4b6b-9379-66fa2638cddd/20240726150528.jpg"><br><img src="https://img.keviecc.online/2024/07/26/d6e6b009-58a4-469f-a48d-db7ccf5802b5/20240726150559.jpg"><br><img src="https://img.keviecc.online/2024/07/26/d2b70b02-6db1-4ba4-a6b2-cd8ad50af0dd/20240726150530.jpg"><br><img src="https://img.keviecc.online/2024/07/26/07e36a19-ac8a-468d-9c3e-824e2a98bab6/20240726150529.jpg"><br><img src="https://img.keviecc.online/2024/07/26/bc6803d1-b620-4a56-8f3e-4ab5b2170364/20240726150527.jpg"><br><img src="https://img.keviecc.online/2024/07/26/7a7527aa-7fd8-4bc7-a237-79644afdd608/20240726150552.jpg"><br><img src="https://img.keviecc.online/2024/07/26/cc2e63ee-932c-4c9f-874f-348a868c8d92/20240726150553.jpg"><br><img src="https://img.keviecc.online/2024/07/26/cc8f28da-8314-4c40-bdb4-8d82801347af/20240726150554.jpg"><br><img src="https://img.keviecc.online/2024/07/26/cf1bdd89-5a42-44d4-8be8-e88b6e51d688/20240726150555.jpg"><br><img src="https://img.keviecc.online/2024/07/26/f26ec9e5-a5af-457f-be08-729f99141753/20240726150556.jpg"><br><img src="https://img.keviecc.online/2024/07/26/c6173372-cd9e-49a5-b5ba-cd314f25bb0d/20240726150557.jpg"><br><img src="https://img.keviecc.online/2024/07/26/226a1c16-4e79-4a56-b542-50c5492c586e/20240726150535.jpg"></p>          </div>]]></content>
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://img.keviecc.online/2024/07/26/599fb304-3cc0-4f1b-ae20-50c6a4c9cd06/20240726151953.jpg"><br><img src="https://img.keviecc.online/2024/07/26/e26a8bf6-d79c-4ed6-9d31-c8f9b2f2c94b/20240726151954.jpg"><br><img src="https://img.keviecc.online/2024/07/26/1f83e2a5-4a75-40ae-a708-dddcde0a6263/20240726151955.jpg"><br><img src="https://img.keviecc.online/2024/07/26/927516bf-fbc6-4b5f-970c-09a04bc1992a/20240726151957.jpg"><br><img src="https://img.keviecc.online/2024/07/26/ee3f8c71-e8a1-4db1-88af-5c42deafdf55/20240726151956.jpg"></p>          </div>]]></content>
       
     </entry>
     
@@ -1437,11 +1437,11 @@
     
     
     <entry>
-      <title>壁纸</title>
-      <link href="/gallery/wallpaper/index.html"/>
-      <url>/gallery/wallpaper/index.html</url>
+      <title>拍人参考图</title>
+      <link href="/gallery/picture-people/index.html"/>
+      <url>/gallery/picture-people/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://img.keviecc.online/2022/12/22/d86ae5ff-15b9-4e33-a236-8668a3dae350/Re4eoluwlN.jpg"><br><img src="https://img.keviecc.online/2022/12/22/6da3040b-17f3-4eca-b990-c1af61435fd8/9wAA65dfIj.png"><br><img src="https://img.keviecc.online/2022/12/22/19841c24-261c-47bb-ab6a-bc4b901d6222/awab8gnHOV.jpg"><br><img src="https://img.keviecc.online/2022/12/22/598c57ab-b8bf-4c96-bbff-ce86663f9f0b/CWFVsC7nOm.jpg"><br><img src="https://img.keviecc.online/2022/12/22/769d6bfd-f1e9-4154-9526-68e7d202a878/Twtq5RL614.jpg"><br><img src="https://img.keviecc.online/2022/12/22/83b01fab-3c1d-407a-a60b-e91be66f8afa/Co2rlhus64.jpg"><br><img src="https://img.keviecc.online/2022/12/22/8010700d-ced7-47de-a3ca-323b5fe8f273/2RwYeuRUzu.jpg"><br><img src="https://img.keviecc.online/2022/12/22/316c43df-e182-4966-be34-5a9795fda278/9Q1fQm2XNv.jpg"><br><img src="https://img.keviecc.online/2022/12/22/8261f767-a967-43d0-a2e1-33a30aeb0250/471FaQJ2E2.jpg"><br><img src="https://img.keviecc.online/2022/12/22/dbb50d08-fdcc-4d7e-8c72-e9ae7b059613/y5Z74o6HkO.jpg"><br><img src="https://img.keviecc.online/2022/12/22/40e45deb-d755-4aa1-bee2-a8a9e9e2e927/y368jhtIeb.jpg"><br><img src="https://img.keviecc.online/2022/12/22/c8e4e68f-e5eb-430d-92e8-a6cc26b100e7/Gk0qlBWhds.png"></p>          </div>]]></content>
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://img.keviecc.online/2024/07/26/677c4254-cc8c-464a-a30b-26d7b6d04a7e/20240726150558.jpg"><br><img src="https://img.keviecc.online/2024/07/26/93f316d7-7cf1-45d8-9075-89c19336f697/20240726150532.jpg"><br><img src="https://img.keviecc.online/2024/07/26/0ef7bbb0-74d9-44d8-a87e-13fc5c921c1c/20240726150531.jpg"><br><img src="https://img.keviecc.online/2024/07/26/e486c759-b5c4-4115-9d41-9dbe81366edc/20240726150561.jpg"><br><img src="https://img.keviecc.online/2024/07/26/85347354-e0fe-474a-8722-616f68291c1a/20240726150563.jpg"><br><img src="https://img.keviecc.online/2024/07/26/e1a2c2c2-9fc4-4e44-b2cb-c8902db8e276/20240726150564.jpg"><br><img src="https://img.keviecc.online/2024/07/26/4e0968db-c9d2-4f3a-9c34-24d6f73021b0/20240726150533.jpg"><br><img src="https://img.keviecc.online/2024/07/26/81cd1261-6dc8-4768-b024-b17b67db0748/20240726150536.jpg"><br><img src="https://img.keviecc.online/2024/07/26/559b5dc4-9127-4e5f-bfab-35a8d7504e15/20240726150562.jpg"><br><img src="https://img.keviecc.online/2024/07/26/224f8e13-4005-4337-8004-84c2a35e79ec/20240726150537.jpg"><br><img src="https://img.keviecc.online/2024/07/26/2a910ba0-69d8-4fbd-a237-69a70b8d0bdb/20240726150538.jpg"><br><img src="https://img.keviecc.online/2024/07/26/c584f78d-2ef0-43db-9926-7992d9440af3/20240726150539.jpg"><br><img src="https://img.keviecc.online/2024/07/26/e73767d2-d632-4cea-b068-2177882224c9/20240726150543.jpg"><br><img src="https://img.keviecc.online/2024/07/26/6f01b075-0bc6-4640-847d-dad9335a7541/20240726150544.jpg"><br><img src="https://img.keviecc.online/2024/07/26/b036f983-d730-4ca8-9f11-d7d8f73d76ea/20240726150545.jpg"><br><img src="https://img.keviecc.online/2024/07/26/7bef5e4f-f713-468b-8f67-cd7c10c86f46/20240726150546.jpg"><br><img src="https://img.keviecc.online/2024/07/26/569c7ee4-92eb-4d87-b393-1c009facf863/20240726150547.jpg"><br><img src="https://img.keviecc.online/2024/07/26/d0377c4e-c4fc-4cde-bbc2-683cd1186e72/20240726150548.jpg"><br><img src="https://img.keviecc.online/2024/07/26/349f5449-0909-406f-a8af-a30bd73e3400/20240726150549.jpg"><br><img src="https://img.keviecc.online/2024/07/26/44dd45fb-e7aa-4e35-a319-c1ca954ca263/20240726150550.jpg"><br><img src="https://img.keviecc.online/2024/07/26/12271461-54d6-45ad-87ee-c277d5126807/20240726150551.jpg"><br><img src="https://img.keviecc.online/2024/07/26/be03c5aa-a7d4-48db-a978-c8dc096b167e/20240726150540.jpg"><br><img src="https://img.keviecc.online/2024/07/26/5ac230b1-7bb9-4811-b710-1ddd817dbf64/20240726150541.jpg"><br><img src="https://img.keviecc.online/2024/07/26/d38d3203-ce58-4b7b-b70e-860e1517a6cc/20240726150542.jpg"><br><img src="https://img.keviecc.online/2024/07/26/68bcc88d-eb95-43f6-a9fb-63a5cdb973bb/20240726150534.jpg"><br><img src="https://img.keviecc.online/2024/07/26/27406824-57e8-40c6-969c-7b120418417b/20240726150560.jpg"><br><img src="https://img.keviecc.online/2024/07/26/ae010f6a-aaff-4b6b-9379-66fa2638cddd/20240726150528.jpg"><br><img src="https://img.keviecc.online/2024/07/26/d6e6b009-58a4-469f-a48d-db7ccf5802b5/20240726150559.jpg"><br><img src="https://img.keviecc.online/2024/07/26/d2b70b02-6db1-4ba4-a6b2-cd8ad50af0dd/20240726150530.jpg"><br><img src="https://img.keviecc.online/2024/07/26/07e36a19-ac8a-468d-9c3e-824e2a98bab6/20240726150529.jpg"><br><img src="https://img.keviecc.online/2024/07/26/bc6803d1-b620-4a56-8f3e-4ab5b2170364/20240726150527.jpg"><br><img src="https://img.keviecc.online/2024/07/26/7a7527aa-7fd8-4bc7-a237-79644afdd608/20240726150552.jpg"><br><img src="https://img.keviecc.online/2024/07/26/cc2e63ee-932c-4c9f-874f-348a868c8d92/20240726150553.jpg"><br><img src="https://img.keviecc.online/2024/07/26/cc8f28da-8314-4c40-bdb4-8d82801347af/20240726150554.jpg"><br><img src="https://img.keviecc.online/2024/07/26/cf1bdd89-5a42-44d4-8be8-e88b6e51d688/20240726150555.jpg"><br><img src="https://img.keviecc.online/2024/07/26/f26ec9e5-a5af-457f-be08-729f99141753/20240726150556.jpg"><br><img src="https://img.keviecc.online/2024/07/26/c6173372-cd9e-49a5-b5ba-cd314f25bb0d/20240726150557.jpg"><br><img src="https://img.keviecc.online/2024/07/26/226a1c16-4e79-4a56-b542-50c5492c586e/20240726150535.jpg"></p>          </div>]]></content>
       
     </entry>
     
@@ -1459,11 +1459,11 @@
     
     
     <entry>
-      <title>房间布置参考图</title>
-      <link href="/gallery/room-design/index.html"/>
-      <url>/gallery/room-design/index.html</url>
+      <title>壁纸</title>
+      <link href="/gallery/wallpaper/index.html"/>
+      <url>/gallery/wallpaper/index.html</url>
       
-        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://img.keviecc.online/2024/07/26/599fb304-3cc0-4f1b-ae20-50c6a4c9cd06/20240726151953.jpg"><br><img src="https://img.keviecc.online/2024/07/26/e26a8bf6-d79c-4ed6-9d31-c8f9b2f2c94b/20240726151954.jpg"><br><img src="https://img.keviecc.online/2024/07/26/1f83e2a5-4a75-40ae-a708-dddcde0a6263/20240726151955.jpg"><br><img src="https://img.keviecc.online/2024/07/26/927516bf-fbc6-4b5f-970c-09a04bc1992a/20240726151957.jpg"><br><img src="https://img.keviecc.online/2024/07/26/ee3f8c71-e8a1-4db1-88af-5c42deafdf55/20240726151956.jpg"></p>          </div>]]></content>
+        <content type="html"><![CDATA[<div class="fj-gallery"><p><img src="https://img.keviecc.online/2022/12/22/d86ae5ff-15b9-4e33-a236-8668a3dae350/Re4eoluwlN.jpg"><br><img src="https://img.keviecc.online/2022/12/22/6da3040b-17f3-4eca-b990-c1af61435fd8/9wAA65dfIj.png"><br><img src="https://img.keviecc.online/2022/12/22/19841c24-261c-47bb-ab6a-bc4b901d6222/awab8gnHOV.jpg"><br><img src="https://img.keviecc.online/2022/12/22/598c57ab-b8bf-4c96-bbff-ce86663f9f0b/CWFVsC7nOm.jpg"><br><img src="https://img.keviecc.online/2022/12/22/769d6bfd-f1e9-4154-9526-68e7d202a878/Twtq5RL614.jpg"><br><img src="https://img.keviecc.online/2022/12/22/83b01fab-3c1d-407a-a60b-e91be66f8afa/Co2rlhus64.jpg"><br><img src="https://img.keviecc.online/2022/12/22/8010700d-ced7-47de-a3ca-323b5fe8f273/2RwYeuRUzu.jpg"><br><img src="https://img.keviecc.online/2022/12/22/316c43df-e182-4966-be34-5a9795fda278/9Q1fQm2XNv.jpg"><br><img src="https://img.keviecc.online/2022/12/22/8261f767-a967-43d0-a2e1-33a30aeb0250/471FaQJ2E2.jpg"><br><img src="https://img.keviecc.online/2022/12/22/dbb50d08-fdcc-4d7e-8c72-e9ae7b059613/y5Z74o6HkO.jpg"><br><img src="https://img.keviecc.online/2022/12/22/40e45deb-d755-4aa1-bee2-a8a9e9e2e927/y368jhtIeb.jpg"><br><img src="https://img.keviecc.online/2022/12/22/c8e4e68f-e5eb-430d-92e8-a6cc26b100e7/Gk0qlBWhds.png"></p>          </div>]]></content>
       
     </entry>
     
